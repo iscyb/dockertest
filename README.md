@@ -27,14 +27,15 @@
 
 ## Good practices
 
+### 1
 - Include only necessary context — use a .dockerignore file (like .gitignore in git)
 - Avoid installing unnecessary packages — it will consume extra disk space
 - Use cache. Add context which changes a lot (for example source code of your project) at the end of Dockerfile — it will utilize Docker cache effectively.
 - Be careful with volumes. You should remember what data is in volumes. Because volumes are persistent and don’t die with the containers - next container will use data from volume which was created by previous container.
 - Use environment variables (in RUN, EXPOSE, VOLUME). It will make your Dockerfile more flexible.
-
+### Connect
 - Docker compose — is the only right way to connect containers with each other.
-
+### 2
 - 1 application = 1 container
 - Run process in foreground (don't use systemd, upstart or any other similar tools)
 - Keep data out of container — use volumes
