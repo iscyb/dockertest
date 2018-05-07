@@ -3,6 +3,7 @@
 ## Sources
 
 - https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/ Python, Termonology, Nginx
+- https://pipelines.puppet.com/docs/tutorials/build-and-deploy-python-with-docker/
 
 
 ## Goals
