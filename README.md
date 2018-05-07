@@ -15,6 +15,8 @@
 
 ## Dockerfile
 
+
+# Termonology
 - `FROM` — set base image
 - `RUN` — execute command in container
 - `ENV` — set environment variable
