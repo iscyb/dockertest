@@ -12,3 +12,12 @@
 - Dockers communicating
 - Database docker
 - Kubernetes
+
+## Dockerfile
+
+- `FROM` — set base image
+- `RUN` — execute command in container
+- `ENV` — set environment variable
+- `WORKDIR` — set working directory
+- `VOLUME` — create mount-point for a volume
+- `CMD` — set executable for container
