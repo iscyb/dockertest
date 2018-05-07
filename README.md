@@ -4,6 +4,7 @@
 
 - https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/ Python, Termonology, Nginx
 - https://pipelines.puppet.com/docs/tutorials/build-and-deploy-python-with-docker/
+- https://snarky.ca/what-are-the-popular-docker-images-for-python/ Which python image to use(Alpine)
 
 
 ## Goals
