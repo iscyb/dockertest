@@ -29,6 +29,8 @@
 - `CMD` — set executable for container
 
 
+"There can be only one CMD command. It’s the philosophy of docker — one process per container."
+
 ## Good practices
 
 ### 1
