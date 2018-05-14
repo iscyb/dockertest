@@ -23,6 +23,7 @@ https://docs.docker.com/get-started/part3/#about-services
 - https://hub.docker.com/r/datmo/kaggle/ ML dockers. Fattar ej hur man ser builden
 - https://medium.com/@evheniybystrov/docker-for-data-science-9c0ce73e8263 Docker for Data Science
 - https://hackernoon.com/making-right-things-using-docker-7296cf0f6c6e Tillhör ovanstående
+- https://docs.docker.com/compose/networking/#multi-host-networking docker compose. Networking dockers
 
 ## Goals
 
