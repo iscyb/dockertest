@@ -1,5 +1,10 @@
 # dockertest
 
+## Basic dockersetup and terminal commands
+- `docker build -t friendlyhello .` Requires some files. Creates docker image. `docker image ls`
+- `docker run -p 4000:80 friendlyhello` Maps port 4000 locally to port 80 on docker. 
+
+
 ## Sources
 
 - https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/ Python, Termonology, Nginx
