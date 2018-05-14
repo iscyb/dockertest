@@ -3,6 +3,7 @@
 ## Basic dockersetup and terminal commands
 - `docker build -t friendlyhello .` Requires some files. Creates docker image. `docker image ls`
 - `docker run -p 4000:80 friendlyhello` Maps port 4000 locally to port 80 on docker. 
+- `docker run -d -p 4000:80 friendlyhello` Run the docker in detached mode.
 
 
 ## Sources
