@@ -6,6 +6,15 @@
 - `docker run -d -p 4000:80 friendlyhello` Run the docker in detached mode.
 
 
+### Dockerhub
+
+- `docker tag image_name username/repository:tag`
+- `docker push username/repository:tag`
+
+### docker_compose.yml
+
+https://docs.docker.com/get-started/part3/#about-services
+
 ## Sources
 
 - https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/ Python, Termonology, Nginx
