@@ -25,6 +25,7 @@ https://docs.docker.com/get-started/part3/#about-services
 - https://hackernoon.com/making-right-things-using-docker-7296cf0f6c6e Tillhör ovanstående
 - https://docs.docker.com/compose/networking/#multi-host-networking docker compose. Networking dockers
 - https://www.youtube.com/watch?v=Qw9zlE3t8Ko&t=69s docker compose **
+- https://www.youtube.com/watch?v=sz96JV8S-Bk automate builds with git
 
 ## Goals
 
