@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+    frontend:
+            image: iscyb/frontend:jsonify
+        ports:
+            - "5000:80"
+            
+    backend-app:
+        image: iscyb/backend:response
+        ports:
+            - "5001:80"
