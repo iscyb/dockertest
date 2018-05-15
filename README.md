@@ -28,6 +28,7 @@ https://docs.docker.com/get-started/part3/#about-services
 - https://www.youtube.com/watch?v=sz96JV8S-Bk automate builds with git
 - https://stackoverflow.com/questions/25552038/how-to-update-a-docker-image Udating images etc
 - https://tsaprailis.com/2017/10/10/Docker-for-data-science-part-1-building-jupyter-container/ Jupyter within docker
+- https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile CMD vs ENTRYPOINT
 
 ## Goals
 
