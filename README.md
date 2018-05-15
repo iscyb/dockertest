@@ -26,6 +26,7 @@ https://docs.docker.com/get-started/part3/#about-services
 - https://docs.docker.com/compose/networking/#multi-host-networking docker compose. Networking dockers
 - https://www.youtube.com/watch?v=Qw9zlE3t8Ko&t=69s docker compose **
 - https://www.youtube.com/watch?v=sz96JV8S-Bk automate builds with git
+- https://stackoverflow.com/questions/25552038/how-to-update-a-docker-image Udating images etc
 
 ## Goals
 
