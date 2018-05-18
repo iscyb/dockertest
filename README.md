@@ -17,6 +17,7 @@ https://docs.docker.com/get-started/part3/#about-services
 
 ## Sources
 
+- https://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/ Rolig o bra förklaring om varför Docker är viktigt
 - https://djangostars.com/blog/what-is-docker-and-how-to-use-it-with-python/ Python, Termonology, Nginx
 - https://pipelines.puppet.com/docs/tutorials/build-and-deploy-python-with-docker/
 - https://snarky.ca/what-are-the-popular-docker-images-for-python/ Which python image to use (Alpine? Eller Anaconda för data science)
