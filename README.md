@@ -32,6 +32,7 @@ https://docs.docker.com/get-started/part3/#about-services
 - https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile CMD vs ENTRYPOINT
 - https://hub.docker.com/r/jupyter/datascience-notebook/ data science docker
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook lite om att utveckla med jupyter
+- https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/ ENTRY vs CMD
 
 ## Goals
 
